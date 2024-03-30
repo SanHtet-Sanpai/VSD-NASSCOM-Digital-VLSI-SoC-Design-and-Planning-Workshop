@@ -63,10 +63,10 @@ From the synthesis statistics report, it can be observed that there are a total 
 Therefore, 
 
 ```math
-Flop\ Ratio = \frac{1613}{14876} = 0.108429685
+Flop\ Ratio = \frac{1613}{14876} = 0.1084
 ```
 ```math
-Percentage\ of\ DFF's = 0.108429685 * 100 = 10.84296854\ \%
+Percentage\ of\ DFF's = 0.108429685 * 100 = 10.84\ \%
 ```
 
 
